@@ -1,0 +1,34 @@
+# AlgoCasts
+
+**Algorithm Practice Exercises**
+  - String Reversal
+  - Palindromes
+  - Integer Reversal
+  - MaxChars
+  - The Classic FizzBuzz!
+  - Array Chunking
+  - Anagrams
+  - Sentence Capitalization
+  - Printing Steps
+  - Two Sided Steps - Pyramids
+  - Find the Vowels
+  - Enter the Matrix Spiral
+  - Runtime Complexity
+  - Runtime Complexity in Practice - Fibonacci
+  - The Queue
+  - Underwater Queue Weaving
+  - Stack 'Em Up With Stacks
+  - Two Become One
+  - Linked Lists
+  - Find the Midpoint
+  - Circular Lists?
+  - Step Back From the Tail
+  - Building a Tree
+  - Tree Width with Level Width
+  - My Best Friend, Binary Search Trees
+  - Validating a Binary Search Tree
+  - Back to Javascript - Events
+  - Building Twitter - A Design Question
+  - Sorting With BubbleSort
+  - Sort By Selection
+  - Ack, MergeSort!
