@@ -23,7 +23,7 @@ function maxChar(str) {
  }
 
  //Iterate through the character map if we ever find a character that has more uses than mostChar. Then we'll set mostChar equal to that new value and we'll set mostChar char to a character that was responsible for that number of uses.
-
+// for...in loop - iterate of objects.
 for (let char in charMap) {
    if (charMap[char] > mostChar) {
       mostChar = charMap[char];
